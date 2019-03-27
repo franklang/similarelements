@@ -1,6 +1,6 @@
 # jQuery similar elements plug-in
 
-L'idée de départ est de pouvoir piloter de manière dynamique un certain nombre d'éléments de la page qui déclenchent une même action. L'action sera déclenchée une seule fois, mais tous les éléments pourront être mis à jour. On peut exécuter de manière séparée du code pour l'élément activé par l'utilisateur et les éléments similaires non-activés qui doivent quand-même faire l'objet d'une mise à jour.
+L'idée de départ est de pouvoir piloter de manière dynamique un certain nombre d'éléments de la page qui déclenchent une même action. L'action sera déclenchée une seule fois, mais tous les éléments déclancheurs pourront être mis à jour. On peut exécuter de manière séparée du code pour l'élément activé par l'utilisateur et les éléments similaires non-activés qui doivent quand-même faire l'objet d'une mise à jour.
 
 ## Usage:
 
