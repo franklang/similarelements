@@ -1,6 +1,6 @@
 /**
  * "Similar Elements" jQuery plug-in
- * @author: Frank LANG (https://github.com/franklang/)
+ * @author: Frank LANG (https://github.com/franklang/similarelements)
  *
  * Usage: $(document).similarElements( <array of similar elements>, <jQuery event ('click' is default)> );
  * <array of similar elements> parameter is mandatory.
