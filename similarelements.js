@@ -26,6 +26,7 @@
     // Vérifier la présence effective, dans le DOM, de chaque élément 
     // déclaré dans le tableau [arrayOfSimilarElements]...
       // https://stackoverflow.com/questions/50955692/javascript-check-if-html-contains-an-item-from-an-array
+      // https://coderwall.com/p/kvzbpa/don-t-use-array-foreach-use-for-instead
     const MATCHED_ELEMENTS = [];
     options.arrayOfSimilarElements.forEach( (el) => {
       const MATCH = $(el);
