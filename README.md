@@ -1,3 +1,5 @@
+**Note:** la version minifiée a été transpilée via Babel et devrait, de ce fait, être compatible IE9+. La version "développement" contient une expression de fonction fléchée introduite avec ECMAScript 2015 qui n'est pas supportée par IE (toutes versions).
+
 # jQuery similar elements plug-in
 
 [jsFiddle live Demo!](https://jsfiddle.net/frontenddeveloper/2vm1rLdo/59/)
