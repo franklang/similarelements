@@ -1,0 +1,13 @@
+.btn {
+  margin-bottom: 10px;
+  &[data-color="pink"] {
+    .text-green {
+      display: none;
+    }
+  }
+  &[data-color="green"] {
+    .text-pink {
+      display: none;
+    }
+  }
+}
